@@ -6,7 +6,7 @@
 
 * Removed humans, they weren't doing fine with animals.
 
-### Changed
+## Changed
 
 * Animals are now super cute, all of them.
 
